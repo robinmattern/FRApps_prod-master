@@ -1,13 +1,7 @@
 
 <html>
- <body>123
-  <style><!--
-    details > ul > li            { margin-top:-10px !important; margin-bottom:20px !important; }
-    details > ul > li > p        { color: #810d0d; padding-left: 20px; margin-top:-17px !important; text-indent: -20px; line-height: 22px !important; }
-    details > ul > li:last-child { display: none; }                                                 /* .(21218.02.1 RAM Don't display MT last child) */
-    code                         { color: black; font-size: 12px; margin: 0px 0px 0px 16px !important; padding-bottom: 0px; }   /* .(21218.02.3 RAM) */
-  --></style>
-
+ <body>
+  
   <div style="margin-left:25px;">
 
 #
@@ -17,7 +11,7 @@
   <details><summary><b style="font-size:24px;">Client1 HTML & CSS App</b></summary>
 
   - ### [c10. Background and Purposes](client1/c10_background-and-purposes/README.md)
-    An intrduction to the HTML app in this client1 folder.
+    An introduction to the HTML app in this client1 folder.
 
   - ### [c11. My HTML Custom App](client1/c11_my-html-custom-app/index_final_custom.html)
     A simple responsive app using HTML and .CSS styles.
@@ -27,7 +21,7 @@
 </details>
   <details><summary><b style="font-size:24px;">Client2 JavaScript Apps</b></summary>
 
-  - ### [c20. Simple JavaScript onClick Samples](client2/c20_background-and-purposes/README.md)
+  - ### [c20. Background and Purposes](client2/c20_background-and-purposes/README.md)
     A few HTML onClick functions using DOM and JQuery.
 
   - ### [c21. My JavaScript Custom App](client2/c21_my-javascript-custom-app/index.html)
